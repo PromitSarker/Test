@@ -1,0 +1,1 @@
+input_element.send_keys(Keys.ENTER)
